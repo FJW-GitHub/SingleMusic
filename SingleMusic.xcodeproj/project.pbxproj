@@ -15,6 +15,14 @@
 		6901B2A11C9A39E1008B1B99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6901B29F1C9A39E1008B1B99 /* LaunchScreen.storyboard */; };
 		6901B2AC1C9A39E2008B1B99 /* SingleMusicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6901B2AB1C9A39E2008B1B99 /* SingleMusicTests.m */; };
 		6901B2B71C9A39E2008B1B99 /* SingleMusicUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6901B2B61C9A39E2008B1B99 /* SingleMusicUITests.m */; };
+		6901B2CE1C9A3AAA008B1B99 /* MusicList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6901B2CD1C9A3AAA008B1B99 /* MusicList.plist */; };
+		6901B2D31C9A3AB4008B1B99 /* G.E.M.邓紫棋.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6901B2CF1C9A3AB4008B1B99 /* G.E.M.邓紫棋.jpg */; };
+		6901B2D41C9A3AB4008B1B99 /* 陀螺.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6901B2D01C9A3AB4008B1B99 /* 陀螺.mp3 */; };
+		6901B2D51C9A3AB4008B1B99 /* 李健.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6901B2D11C9A3AB4008B1B99 /* 李健.jpg */; };
+		6901B2D61C9A3AB4008B1B99 /* 泡沬.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6901B2D21C9A3AB4008B1B99 /* 泡沬.mp3 */; };
+		6901B2D91C9A3AD0008B1B99 /* MusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6901B2D81C9A3AD0008B1B99 /* MusicModel.m */; };
+		6901B2DC1C9A3AE1008B1B99 /* MusicPlayerManage.m in Sources */ = {isa = PBXBuildFile; fileRef = 6901B2DB1C9A3AE1008B1B99 /* MusicPlayerManage.m */; };
+		6901B2DF1C9A3AF4008B1B99 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6901B2DE1C9A3AF4008B1B99 /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +59,17 @@
 		6901B2B21C9A39E2008B1B99 /* SingleMusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SingleMusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6901B2B61C9A39E2008B1B99 /* SingleMusicUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SingleMusicUITests.m; sourceTree = "<group>"; };
 		6901B2B81C9A39E2008B1B99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6901B2CD1C9A3AAA008B1B99 /* MusicList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MusicList.plist; sourceTree = "<group>"; };
+		6901B2CF1C9A3AB4008B1B99 /* G.E.M.邓紫棋.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "G.E.M.邓紫棋.jpg"; sourceTree = "<group>"; };
+		6901B2D01C9A3AB4008B1B99 /* 陀螺.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "陀螺.mp3"; sourceTree = "<group>"; };
+		6901B2D11C9A3AB4008B1B99 /* 李健.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "李健.jpg"; sourceTree = "<group>"; };
+		6901B2D21C9A3AB4008B1B99 /* 泡沬.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "泡沬.mp3"; sourceTree = "<group>"; };
+		6901B2D71C9A3AD0008B1B99 /* MusicModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicModel.h; sourceTree = "<group>"; };
+		6901B2D81C9A3AD0008B1B99 /* MusicModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicModel.m; sourceTree = "<group>"; };
+		6901B2DA1C9A3AE1008B1B99 /* MusicPlayerManage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicPlayerManage.h; sourceTree = "<group>"; };
+		6901B2DB1C9A3AE1008B1B99 /* MusicPlayerManage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicPlayerManage.m; sourceTree = "<group>"; };
+		6901B2DD1C9A3AF4008B1B99 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		6901B2DE1C9A3AF4008B1B99 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +124,17 @@
 				6901B2951C9A39E1008B1B99 /* AppDelegate.m */,
 				6901B2971C9A39E1008B1B99 /* ViewController.h */,
 				6901B2981C9A39E1008B1B99 /* ViewController.m */,
+				6901B2DD1C9A3AF4008B1B99 /* DetailViewController.h */,
+				6901B2DE1C9A3AF4008B1B99 /* DetailViewController.m */,
+				6901B2DA1C9A3AE1008B1B99 /* MusicPlayerManage.h */,
+				6901B2DB1C9A3AE1008B1B99 /* MusicPlayerManage.m */,
+				6901B2D71C9A3AD0008B1B99 /* MusicModel.h */,
+				6901B2D81C9A3AD0008B1B99 /* MusicModel.m */,
+				6901B2CD1C9A3AAA008B1B99 /* MusicList.plist */,
+				6901B2CF1C9A3AB4008B1B99 /* G.E.M.邓紫棋.jpg */,
+				6901B2D01C9A3AB4008B1B99 /* 陀螺.mp3 */,
+				6901B2D11C9A3AB4008B1B99 /* 李健.jpg */,
+				6901B2D21C9A3AB4008B1B99 /* 泡沬.mp3 */,
 				6901B29A1C9A39E1008B1B99 /* Main.storyboard */,
 				6901B29D1C9A39E1008B1B99 /* Assets.xcassets */,
 				6901B29F1C9A39E1008B1B99 /* LaunchScreen.storyboard */,
@@ -247,8 +277,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				6901B2A11C9A39E1008B1B99 /* LaunchScreen.storyboard in Resources */,
+				6901B2D61C9A3AB4008B1B99 /* 泡沬.mp3 in Resources */,
 				6901B29E1C9A39E1008B1B99 /* Assets.xcassets in Resources */,
+				6901B2CE1C9A3AAA008B1B99 /* MusicList.plist in Resources */,
+				6901B2D31C9A3AB4008B1B99 /* G.E.M.邓紫棋.jpg in Resources */,
+				6901B2D41C9A3AB4008B1B99 /* 陀螺.mp3 in Resources */,
 				6901B29C1C9A39E1008B1B99 /* Main.storyboard in Resources */,
+				6901B2D51C9A3AB4008B1B99 /* 李健.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +309,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				6901B2991C9A39E1008B1B99 /* ViewController.m in Sources */,
+				6901B2D91C9A3AD0008B1B99 /* MusicModel.m in Sources */,
 				6901B2961C9A39E1008B1B99 /* AppDelegate.m in Sources */,
 				6901B2931C9A39E1008B1B99 /* main.m in Sources */,
+				6901B2DC1C9A3AE1008B1B99 /* MusicPlayerManage.m in Sources */,
+				6901B2DF1C9A3AF4008B1B99 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
